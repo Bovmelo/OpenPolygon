@@ -1,0 +1,9 @@
+# Build artifacts
+build/
+
+# Editor / OS scrap
+.DS_Store
+*.swp
+
+# API token and base URL
+api_init.sh
