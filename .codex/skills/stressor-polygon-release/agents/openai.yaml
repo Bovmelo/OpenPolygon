@@ -1,0 +1,10 @@
+interface:
+  display_name: "Stressor Polygon Release"
+  short_description: "Build and upload a full contest problem"
+  default_prompt: "Use $stressor-polygon-release to create, verify, upload, and release this problem through the stressor workflow and Polygon MCP."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "cf-polygon-mcp"
+      description: "CF Polygon MCP server for Codeforces Polygon problem upload, readiness, package, and release operations"
+      transport: "stdio"
