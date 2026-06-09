@@ -1,0 +1,10 @@
+interface:
+  display_name: "Polygon MCP"
+  short_description: "Guide Polygon problem workflows with MCP"
+  default_prompt: "Use $polygon-mcp to manage this Codeforces Polygon problem through the configured MCP tools."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "cf-polygon-mcp"
+      description: "CF Polygon MCP server exposing Codeforces Polygon problem and contest tools"
+      transport: "stdio"
