@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stressor Brute"
+  short_description: "Write a trusted brute-force oracle"
+  default_prompt: "Use $stressor-brute to write a correctness-first brute-force oracle for this contest problem."

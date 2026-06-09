@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stressor Stress"
+  short_description: "Run differential stress testing"
+  default_prompt: "Use $stressor-stress to differentially test the optimized solution against the brute-force oracle."

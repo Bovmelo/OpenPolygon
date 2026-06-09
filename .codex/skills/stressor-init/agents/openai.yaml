@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stressor Init"
+  short_description: "Initialize the full stressor workflow"
+  default_prompt: "Use $stressor-init to initialize and preflight-check the full stressor workflow for this contest problem."

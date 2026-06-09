@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stressor Vali"
+  short_description: "Write a testlib input validator"
+  default_prompt: "Use $stressor-vali to write and validate a testlib input validator for this contest problem."

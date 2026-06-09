@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stressor Checker"
+  short_description: "Build a problem-specific testlib checker"
+  default_prompt: "Use $stressor-checker to build a problem-specific testlib checker for this contest problem."

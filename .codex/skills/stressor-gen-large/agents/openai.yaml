@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stressor Gen Large"
+  short_description: "Generate large testlib stress inputs"
+  default_prompt: "Use $stressor-gen-large to generate medium and large testlib-based stress inputs for this contest problem."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stressor Gen Small"
+  short_description: "Handwrite small legal corner tests"
+  default_prompt: "Use $stressor-gen-small to create small hand-checkable legal tests for this contest problem."

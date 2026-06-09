@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stressor Try"
+  short_description: "Generate isolated API solution attempts"
+  default_prompt: "Use $stressor-try to generate a versioned optimized solution attempt through the isolated API workflow."
